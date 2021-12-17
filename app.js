@@ -28,7 +28,11 @@ app.get("/", (req, res) => {
   res
     .status(200)
     .send(
-      `<h1 style='text-align:center; color:limegreen;'>Collatz Conjecture API</h1>`
+      `<h1 style='text-align:center; color:limegreen;'>
+            Collatz Conjecture API 
+            <br> 
+            <a href='https://github.com/SyedAli310'>@Github</a>
+       </h1>`
     );
 });
 
