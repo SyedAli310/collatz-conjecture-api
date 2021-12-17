@@ -28,7 +28,7 @@ app.get("/", (req, res) => {
   res
     .status(200)
     .send(
-      `<h1 style='text-align:center; color:limegreen;'>Collatz Conjecture API 0</h1>`
+      `<h1 style='text-align:center; color:limegreen;'>Collatz Conjecture API</h1>`
     );
 });
 
