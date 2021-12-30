@@ -31,7 +31,7 @@ Start the server
 ## Deployed Links
 
 #### API       - `https://collatz-visual.herokuapp.com`      [🔗](https://collatz-visual.herokuapp.com)
-#### Front-end - `https://collatz-conjecture-js.netlify.app`        [🔗](https://collatz-conjecture-js.netlify.app)
+#### Front-end - `https://collatz-visual.netlify.app`        [🔗](https://collatz-visual.netlify.app)
 
 
 ## Security
