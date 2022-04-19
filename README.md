@@ -30,7 +30,7 @@ Start the server
 
 ## Deployed Links
 
-#### API       - `https://collatz-visual.herokuapp.com`      [🔗](https://collatz-visual.herokuapp.com)
+#### Not Deployed
 
 ## Security
 
