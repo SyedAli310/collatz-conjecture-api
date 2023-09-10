@@ -29,6 +29,7 @@ Start the server
 ```
 
 ## Deployed Links
+<a href="https://collatz-api.vercel.app">https://collatz-api.vercel.app</a>
 
 #### Not Deployed
 
